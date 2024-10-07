@@ -5,8 +5,6 @@ import { useState } from 'react';
 
 function App() {
 
-  let [ like, setLike ] = useState(0);
-
   return (
     <div className="App">
       <div className='main_slide'>
@@ -18,7 +16,6 @@ function App() {
               끊임없이 <span className='white_font'>성장하는 개발자</span>
               <br />
               <span className='white_font'>오혜준</span>입니다.
-              <h4><span onClick={ () => { setLike(like + 1) }}>👍</span> {like} </h4>
             </p>
           </div>
         </div>
