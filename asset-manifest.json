@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/Oh-hyejun.github.io/static/css/main.8a3f3ef2.css",
-    "main.js": "/Oh-hyejun.github.io/static/js/main.c35765b8.js",
+    "main.js": "/Oh-hyejun.github.io/static/js/main.1191e55a.js",
     "static/js/453.1407b060.chunk.js": "/Oh-hyejun.github.io/static/js/453.1407b060.chunk.js",
-    "static/media/logo.svg": "/Oh-hyejun.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Oh-hyejun.github.io/index.html",
     "main.8a3f3ef2.css.map": "/Oh-hyejun.github.io/static/css/main.8a3f3ef2.css.map",
-    "main.c35765b8.js.map": "/Oh-hyejun.github.io/static/js/main.c35765b8.js.map",
+    "main.1191e55a.js.map": "/Oh-hyejun.github.io/static/js/main.1191e55a.js.map",
     "453.1407b060.chunk.js.map": "/Oh-hyejun.github.io/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8a3f3ef2.css",
-    "static/js/main.c35765b8.js"
+    "static/js/main.1191e55a.js"
   ]
 }
