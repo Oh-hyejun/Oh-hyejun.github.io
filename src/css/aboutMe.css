@@ -1,0 +1,52 @@
+.aboutMe_container {
+    background-color: rgb(10, 10, 10);
+    width: 100%;
+    height: 600px;
+    margin: auto;
+}
+
+.aboutMe_content {
+    color: rgb(138, 138, 138);
+    margin: auto;
+    width: 1280px;
+}
+
+.aboutMe_box {
+    padding: 40px;
+}
+
+.slogan {
+    font-weight: bold;
+    font-size: 24px;
+    color: white;
+}
+
+.introduce {
+    margin-top: 20px;
+    font-size: 17px;
+}
+
+.aboutMe_grid {
+    
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding-top: 50px;
+    color: white;
+}
+
+.grid_clumn {
+    display: flex;
+}
+
+.grid_icon {
+    display: flex;
+    align-items: center; 
+    font-size: 60px;
+    margin-right: 20px;
+}
+
+.highlight {
+    font-weight: 500;
+    color: white;
+}

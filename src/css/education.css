@@ -1,0 +1,16 @@
+.education_container {
+    background-color: rgb(40, 40, 40);
+    width: 100%;
+    height: 600px;
+    margin: auto;
+}
+
+.education_content {
+    color: rgb(168, 168, 168);
+    margin: auto;
+    width: 1280px;
+}
+
+.education_box {
+    padding: 40px;
+}
