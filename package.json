@@ -1,6 +1,6 @@
 {
-  "homepage": "https://Oh-hyejun.github.io/Oh-hyejun.github.io",
   "name": "portfolio",
+  "homepage": "https://Oh-hyejun.github.io/portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
