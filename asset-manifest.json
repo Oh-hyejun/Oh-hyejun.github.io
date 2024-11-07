@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Oh-hyejun.github.io/static/css/main.8a3f3ef2.css",
-    "main.js": "/Oh-hyejun.github.io/static/js/main.1191e55a.js",
-    "static/js/453.1407b060.chunk.js": "/Oh-hyejun.github.io/static/js/453.1407b060.chunk.js",
-    "index.html": "/Oh-hyejun.github.io/index.html",
-    "main.8a3f3ef2.css.map": "/Oh-hyejun.github.io/static/css/main.8a3f3ef2.css.map",
-    "main.1191e55a.js.map": "/Oh-hyejun.github.io/static/js/main.1191e55a.js.map",
-    "453.1407b060.chunk.js.map": "/Oh-hyejun.github.io/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.6e78fc69.css",
+    "main.js": "/portfolio/static/js/main.0d0e646a.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "index.html": "/portfolio/index.html",
+    "main.6e78fc69.css.map": "/portfolio/static/css/main.6e78fc69.css.map",
+    "main.0d0e646a.js.map": "/portfolio/static/js/main.0d0e646a.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a3f3ef2.css",
-    "static/js/main.1191e55a.js"
+    "static/css/main.6e78fc69.css",
+    "static/js/main.0d0e646a.js"
   ]
 }
